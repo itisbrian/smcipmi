@@ -1,0 +1,13 @@
+ct 05
+cp WAK-AND-DA408
+cs 123ABC-456DEF
+bdt 202207041776
+bpn Wakandan Board
+bs ABC123-DEF456
+bp X12WKN-D4
+pm Wakanda
+pn Forever
+ppm WAKANDA-BOARD
+pv 3.0
+ps 10987654CBA
+pat Property of Wakanda

@@ -1,0 +1,14 @@
+Remote IPMI ONOFF
+Version: 1.0
+Build Date 2018-05-09
+
+Usage:
+Get the script from http://westworld.bnet/ipmi/remoteonoff.sh
+Put file in to your 172.16.0.11 directory.
+Open a remote session and execute the command below.
+
+Example:
+./onoff.sh <ip> <username> <password>
+
+Test will turn the system ON and OFF, and display the current cycle number.
+Sleep time between cycles can be adjusted.

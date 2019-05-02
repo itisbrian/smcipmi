@@ -1,0 +1,50 @@
+ver
+ipmi ver
+bios ver
+nm detect
+nm ver
+pminfo
+ipmi oem summary
+ipmi oem id
+ipmi oem mac
+ipmi oem gethostname
+psfruinfo
+psbbpinfo
+ipmi acpi
+dcmi cap
+ipmi watchdog info
+ipmi sessioninfo
+sel info
+sel list
+ipmi sensor
+hdd map
+hdd info
+hdd lmap
+hdd linfo
+bbp status
+bios isactivated
+nodekey list
+nm20 nmsdr
+nm20 seltime
+nm20 deviceid
+nm20 listimagesinfo
+nm20 oemgettemp
+nm20 statistics 1 0 0
+nm20 cap 0 0
+nm20 pstate
+nm20 tstate
+nm20 cpucore
+nm20 totalpower 0
+nm20 cpumemtemp
+nm20 hostcpudata
+nm20 mode
+nm20 selftest
+nm30 cupscap
+nm30 cupsdata
+nm30 cupsconfig
+nm30 cupspolicy
+nm30 cupscore
+nm30 cupsio
+nm30 cupsmem
+ipmi oem uid on
+nvme info

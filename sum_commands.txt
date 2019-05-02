@@ -1,0 +1,13 @@
+CheckSystemUtilization
+CheckSensorData
+CheckAssetInfo
+CheckOOBSupport
+QueryProductKey
+CheckSystemUtilization
+GetBmcInfo
+GetBiosInfo
+GetEventLog
+GetRaidControllerInfo
+GetSataInfo
+GetNvmeInfo
+GetDmiInfo
